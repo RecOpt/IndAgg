@@ -1,4 +1,4 @@
-# RecOpt
+# IndAgg
 This repository contains the source code and the dataset information used in the paper titled &quot;Integrating Individual and Aggregate Diversity in Top-N Recommendation&quot; published in INFORMS Journal on Computing.
 
 - &quot;Diversity3.m&quot;: The main script to run the algorithm. The parameters of the algorithm should be set in the preamble of the code.
